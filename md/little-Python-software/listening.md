@@ -1,5 +1,8 @@
 ---
+layout: default
 title: 如何查看端口状态和清理端口工作问题
+author: certainstar
+date: 2023-9-1
 ---
 
 # 如何查看端口状态和清理端口工作问题
