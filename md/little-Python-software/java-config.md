@@ -1,7 +1,3 @@
----
-title: Java环境配置
----
-
 # 关于java配置
 
 ## 为什么要配置java环境
@@ -40,7 +36,7 @@ title: Java环境配置
 		> 方法1：直接左键 `bin` 文件夹，`ctrl`+`shift`+`C`
 		> 方法2：点击如下图所示的位置进行复制
 		<p align="center">
-			<img scr="../../img/little-Python-software/java配置1.jpg" alt="java配置1">
+			<img src="../../img/little-Python-software/java配置1.jpg" alt="java配置1">
 			<p align="center">
           		<span> java配置1</span>
         	</p>

@@ -1,7 +1,3 @@
----
-title: 懒人界面————一键配置config.yml文件
----
-
 # 关于一键配置config.yml文件
 
 ## config.yml完整已经配好版

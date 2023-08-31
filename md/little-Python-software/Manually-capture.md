@@ -1,7 +1,3 @@
----
-title: 关于滑条验证的手动抓取提交
----
-
 # 关于滑条验证的手动抓取提交
 
 > 由于近期使用人数过多，可能导致自动提交网站可能失效，在此介绍如何手动抓取提交，下面以Google浏览器为例，进行操作(其他浏览器的操作大同小异)。
@@ -65,9 +61,6 @@ title: 关于滑条验证的手动抓取提交
 
 ## 视频教学
 
-<video controls id="video">
-    <source src="../../img/little-Python-software/手动抓取滑块视频教学.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
+[点击此处查看教学视频]("../../img/little-Python-software/手动抓取滑块视频教学.mp4")
+(暂不支持播放)
 ~~如果还是无法成功，开发者也表示无奈，您只能自己解决...~~
