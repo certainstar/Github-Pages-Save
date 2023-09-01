@@ -68,7 +68,7 @@ date: 2023-9-1
 
 ## 视频教学
 
-[点击此处查看教学视频]("https://www.bilibili.com/video/BV18r4y197yB/?spm_id_from=333.999.0.0&vd_source=6b6239160db0cc27b0ca4a45d445417d")
+[点击此处查看教学视频](https://www.bilibili.com/video/BV18r4y197yB/?spm_id_from=333.999.0.0&vd_source=6b6239160db0cc27b0ca4a45d445417d)
 (暂不支持播放)
 
 ~~如果还是无法成功，开发者也表示无奈，您只能自己解决...~~
