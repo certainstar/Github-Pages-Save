@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 关于java配置
 author: certainstar
 date: 2023-9-1
