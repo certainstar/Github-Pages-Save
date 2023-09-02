@@ -1,5 +1,5 @@
 ---
-title: 关于网站作用
+title: 关于此网站
 author: certainstar
 date: 2023-9-2
 ---
