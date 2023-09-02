@@ -1,5 +1,5 @@
 ---
-layout: docsify
+layout: index
 title: 关于一键配置config.yml文件
 author: certainstar
 date: 2023-9-1
