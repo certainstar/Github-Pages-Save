@@ -137,9 +137,9 @@ servers:
 ```
 将上述代码全部复制，然后代替你的config.yml文件内容即可。
 
-> ___提醒：若您的go-cqhhtp.bat在运行时时候，出现类似 `****端口已经被占用，将在5秒后关闭bot` 的提示，说明您的电脑的该端口已经被占用，解决此问题请查看[如何查看端口状态和清理端口工作问题](https://github.com/certainstar/Github-Pages-Save/blob/main/md/little-Python-software/listening.md)___
+> ___提醒：若您的go-cqhhtp.bat在运行时时候，出现类似 `****端口已经被占用，将在5秒后关闭bot` 的提示，说明您的电脑的该端口已经被占用，解决此问题请查看[如何查看端口状态和清理端口工作问题](https://certainstar.github.io/Github-Pages-Save/md/little-Python-software/listening)___
 
-> ___注意：若您的5700,5701端口被占用，请使用未被占用的端口进行替换，如何查看哪些端口未被占用，请查看[如何查看端口状态和清理端口工作问题](https://github.com/certainstar/Github-Pages-Save/blob/main/md/little-Python-software/listening.md)。
+> ___注意：若您的5700,5701端口被占用，请使用未被占用的端口进行替换，如何查看哪些端口未被占用，请查看[如何查看端口状态和清理端口工作问题](hhttps://certainstar.github.io/Github-Pages-Save/md/little-Python-software/listening)。
 >> _找到未占用的端口，对上述代码中的5700,5701端口进行替换，注意：端口号的范围为0~65535。假设您的5700端口被占用，而5800端口没有被占用。请将以下代码进行修改：_
 ```yaml
 - http: # HTTP 通信设置

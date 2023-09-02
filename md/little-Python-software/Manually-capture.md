@@ -46,7 +46,7 @@ date: 2023-9-1
 	<p align="center">
         <img src="../../img/little-Python-software/手动抓取滑块4.png" alt="手动抓取滑块4">
         <p align="center">
-          <span>手动抓取滑块5</span>
+          <span>手动抓取滑块4</span>
         </p>
     </p>
     <p align="center">
@@ -68,6 +68,7 @@ date: 2023-9-1
 ## 视频教学
 
 [点击此处查看教学视频](https://www.bilibili.com/video/BV18r4y197yB/?spm_id_from=333.999.0.0&vd_source=6b6239160db0cc27b0ca4a45d445417d)
-(暂不支持播放)
+
+(当前网页暂不支持播放)
 
 ~~如果还是无法成功，开发者也表示无奈，您只能自己解决...~~
