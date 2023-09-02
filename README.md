@@ -1,7 +1,5 @@
 ---
 title: 关于此网站
-author: certainstar
-date: 2023-9-2
 ---
 
 # 本网站是用来进行部分网页托管的
